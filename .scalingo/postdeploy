@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Running post-deployment tasks..."
+
+# Add any database migrations or post-deployment tasks here if needed
+
+echo "Post-deployment completed successfully!" 
