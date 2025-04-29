@@ -1,0 +1,5 @@
+-   [x] Store the tasks in supabase instead of file system
+-   [x] Add a verbose mode for debugging that will add logs
+-   [x] Save openai token cost for later analyses
+-   [x] split task in progress status into sevral sub statuses
+-   [ ]
